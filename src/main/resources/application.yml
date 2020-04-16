@@ -6,7 +6,7 @@ spring:
     template-loader-path: classpath:/templates
     suffix: .ftl
   datasource:
-    url: jdbc:mysql://localhost:3306/salesdaily?characterEncoding=UTF-8&serverTimezone=Asia/Seoul
+    url: jdbc:mysql://localhost:3306/study?characterEncoding=UTF-8&serverTimezone=Asia/Seoul
     username: root
     password: 1234
   jpa:
